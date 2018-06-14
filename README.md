@@ -1,4 +1,4 @@
-# 林
+# 林佳鈺
 -  Date of Birth: 28” November,1992
 -  Location: Taipei City, Taiwan
 -  Mobile: 0911-609-927
@@ -19,7 +19,8 @@
 -  ACLS (Advanced Cardiac Life Support)。
 ---
 ## 工作經歷
-**醫學大學附設醫院 / 麻醉科護理師** : 照護術後病人，穩定生命徵象，必要時協助醫師進行急救。
+**醫學大學附設醫院 / 麻醉科護理師**
+照護術後病人，穩定生命徵象，必要時協助醫師進行急救。
 ---
 ## 作品
 
