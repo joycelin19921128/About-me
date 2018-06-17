@@ -37,10 +37,11 @@
 2. 使用 Google Map API 定位標記餐廳地址
 3. 
 
-- 個人網頁（SCSS、jQuery）-
-1. 使用 SCSS 效率管理版型設定 
-2. 使用滾動視差作法豐富使用者視覺效果
-3. 運用 jQuery 設計網頁動畫效果
+- <a href="https://joycelin19921128.github.io/personal-website/">個人網頁（SCSS、jQuery)</a>
+
+  1. 使用 SCSS 效率管理版型設定 
+  2. 使用滾動視差作法豐富使用者視覺效果
+  3. 運用 jQuery 設計網頁動畫效果
 
 - 高雄旅遊資訊(JavaScript、Ajax、Bootstrap) - 
 1. 使用 Bootstrap 進行格線規劃  
