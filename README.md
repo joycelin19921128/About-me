@@ -35,8 +35,7 @@
   2. 不仰賴 Framework 進行 RWD 客製化
   3. 第三方套件使用增添網頁動畫效果
 
-- <a href='https://joycelin19921128.github.io/bootstrap/'>
-打造品牌餐廳( Bootstrap )</a>
+- <a href='https://joycelin19921128.github.io/bootstrap/'>打造品牌餐廳( Bootstrap )</a>
   1. 運用 Bootstrap 快速搭建響應式網頁
   2. 使用 Google Map API 定位標記餐廳地址
 
