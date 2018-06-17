@@ -23,16 +23,18 @@
 ---
 ## 作品
 
-- 簡易Todolist( JavaScript 、 Vue ) -
+- <a href=" https://joycelin19921128.github.io/todo-simple/">簡易Todolist( JavaScript 、 Vue )</a>
 1. 配合 LocalStorage 運用
 2. 使用vue框架快速建立簡易記事本
 
-- 六角西餐廳( RWD 、 jQuery ) - 
+- <a href="https://joycelin19921128.github.io/RwdTest/ ">六角西餐廳( RWD 、 jQuery )</a>
+https://joycelin19921128.github.io/RwdTest/ 
 1. 熟悉 HTML5 及 CSS
 2. 不仰賴 Framework 進行 RWD 客製化
 3. 第三方套件使用增添網頁動畫效果
 
-- 打造品牌餐廳( Bootstrap )
+- <a href='https://joycelin19921128.github.io/bootstrap/'>
+打造品牌餐廳( Bootstrap )</a>
 1. 運用 Bootstrap 快速搭建響應式網頁
 2. 使用 Google Map API 定位標記餐廳地址
 3. 
@@ -42,8 +44,9 @@
   1. 使用 SCSS 效率管理版型設定 
   2. 使用滾動視差作法豐富使用者視覺效果
   3. 運用 jQuery 設計網頁動畫效果
+  4. fjid
 
-- 高雄旅遊資訊(JavaScript、Ajax、Bootstrap) - 
+- <a href="https://joycelin19921128.github.io/travel/">高雄旅遊資訊(JavaScript、Ajax、Bootstrap)</a>
 1. 使用 Bootstrap 進行格線規劃  
 2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
 
