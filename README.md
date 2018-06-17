@@ -6,8 +6,8 @@
 -  Education: 國立台北護理健康大學-護理系
 ---
 ## 專業技能
--  熟悉 HTML5 及 CSS，不仰賴 Framework 下進行 RWD 客制化，開發各裝置尺寸的網站裝  
-        置。
+-  熟悉 HTML5 及 CSS，不仰賴 Framework 下進行 RWD 客制化，開發各裝置尺寸的網
+   站裝置。
 -  運用 jQuery 設計網頁動畫效果，了解如何使用第三方套件。
 -  使用 Bootstrap 快速建立響應式網頁。
 -  使用 SCSS 有效率地管理網頁版型設定。
@@ -19,42 +19,44 @@
 -  ACLS (Advanced Cardiac Life Support)。
 ---
 ## 工作經歷
-- 醫學大學附設醫院 / 麻醉科護理師:照護術後病人，穩定生命徵象，必要時協助醫師進行急救。
+- 醫學大學附設醫院 / 麻醉科護理師:照護術後病人，穩定生命徵象，必要時協助醫師進行   急救。
 ---
 ## 作品
 
-- <a href=" https://joycelin19921128.github.io/todo-simple/">簡易Todolist( JavaScript 、 Vue )</a>
-1. 配合 LocalStorage 運用
-2. 使用vue框架快速建立簡易記事本
+- <a href="https://joycelin19921128.github.io/todo-simple/">簡易Todolist( JavaScript 、 Vue )</a>
+
+  1. 配合 LocalStorage 運用
+  2. 使用vue框架快速建立簡易記事本
+  3. 建立基本新增、刪除、修改功能
 
 - <a href="https://joycelin19921128.github.io/RwdTest/ ">六角西餐廳( RWD 、 jQuery )</a>
-https://joycelin19921128.github.io/RwdTest/ 
-1. 熟悉 HTML5 及 CSS
-2. 不仰賴 Framework 進行 RWD 客製化
-3. 第三方套件使用增添網頁動畫效果
+
+  1. 熟悉 HTML5 及 CSS
+  2. 不仰賴 Framework 進行 RWD 客製化
+  3. 第三方套件使用增添網頁動畫效果
 
 - <a href='https://joycelin19921128.github.io/bootstrap/'>
 打造品牌餐廳( Bootstrap )</a>
-1. 運用 Bootstrap 快速搭建響應式網頁
-2. 使用 Google Map API 定位標記餐廳地址
-3. 
+  1. 運用 Bootstrap 快速搭建響應式網頁
+  2. 使用 Google Map API 定位標記餐廳地址
+
 
 - <a href="https://joycelin19921128.github.io/personal-website/">個人網頁（SCSS、jQuery)</a>
 
   1. 使用 SCSS 效率管理版型設定 
   2. 使用滾動視差作法豐富使用者視覺效果
   3. 運用 jQuery 設計網頁動畫效果
-  4. fjid
 
 - <a href="https://joycelin19921128.github.io/travel/">高雄旅遊資訊(JavaScript、Ajax、Bootstrap)</a>
-1. 使用 Bootstrap 進行格線規劃  
-2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
+  1. 使用 Bootstrap 進行格線規劃  
+  2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
 
 ---
 ## 關於我
-- 在偶然的機會下接觸資訊領域，隨著作品一一建立也助長了我對該領域的興趣。跟著線上課程老師的腳  
+- 在偶然的機會下接觸資訊領域，隨著作品一一建立也助長了我對該領域的興趣。跟著線上課
+  程老師的腳  
   步，及網路上免費自學的資源，期許自己能成為一位專業的前端工程師。
 - 護理教育與經驗，能了解且樂於團隊合作，提升工作的完整度及完成效率。
-- 資訊更新萬變且快速，明白主動自學在資訊領域是非常重要的。常受惠於願意在網路上分享新知的工程
-  師，因為他們的無私，讓自主學習的珍貴資源唾手可得，實為感激。
+- 資訊更新萬變且快速，明白主動自學在資訊領域是非常重要的。常受惠於願意在網路上分享
+  新知的工程師，因為他們的無私，讓自主學習的珍貴資源唾手可得，實為感激。
 
