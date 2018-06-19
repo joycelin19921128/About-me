@@ -1,5 +1,5 @@
 # 林佳鈺
--  Date of Birth: 28” November,1992
+-  Date of Birth: 28 November,1992
 -  Location: Taipei City, Taiwan
 -  Mobile: 0911-609-927
 -  E-mail: joycelin19921128@gmail.com
@@ -19,7 +19,8 @@
 -  ACLS (Advanced Cardiac Life Support)。
 ---
 ## 工作經歷
-- 醫學大學附設醫院 / 麻醉科護理師:照護術後病人，穩定生命徵象，必要時協助醫師進行   急救。
+- 台北醫學大學附設醫院 / 麻醉科護理師:照護術後病人，穩定生命徵象，必要時協助醫師
+  進行急救。
 ---
 ## 作品
 
@@ -29,11 +30,12 @@
   2. 使用vue框架快速建立簡易記事本
   3. 建立基本新增、刪除、修改功能
 
-- <a href="https://joycelin19921128.github.io/RwdTest/ ">六角西餐廳( RWD 、 jQuery )</a>
+- <a href="https://joycelin19921128.github.io/hex/">六角西餐廳( RWD 、 jQuery )</a>
 
   1. 熟悉 HTML5 及 CSS
   2. 不仰賴 Framework 進行 RWD 客製化
   3. 第三方套件使用增添網頁動畫效果
+  4. 使用 SCSS 效率管理版型設定
 
 - <a href='https://joycelin19921128.github.io/bootstrap/'>打造品牌餐廳( Bootstrap )</a>
   1. 運用 Bootstrap 快速搭建響應式網頁
