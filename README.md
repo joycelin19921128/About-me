@@ -19,8 +19,7 @@
 -  ACLS (Advanced Cardiac Life Support)。
 ---
 ## 工作經歷
-- 台北醫學大學附設醫院 / 麻醉科護理師:照護術後病人，穩定生命徵象，必要時協助醫師
-  進行急救。
+- 台北醫學大學附設醫院 / 麻醉科護理師:照護術後病人，穩定生命徵象，必要時協助醫師進行急救。
 ---
 ## 作品
 
@@ -30,7 +29,7 @@
   2. 使用vue框架快速建立簡易記事本
   3. 建立基本新增、刪除、修改功能
 
-- <a href="https://joycelin19921128.github.io/hex/">六角西餐廳( RWD 、 jQuery )</a>
+- <a href="https://joycelin19921128.github.io/hex/">六角西餐廳( RWD 、 jQuery、SCSS )</a>
 
   1. 熟悉 HTML5 及 CSS
   2. 不仰賴 Framework 進行 RWD 客製化
@@ -42,13 +41,14 @@
   2. 使用 Google Map API 定位標記餐廳地址
 
 
-- <a href="https://joycelin19921128.github.io/personal-website/">個人網頁（SCSS、jQuery)</a>
+- <a href="https://joycelin19921128.github.io/personal-website/">個人網頁（SCSS、jQuery、RWD )</a>
 
   1. 使用 SCSS 效率管理版型設定 
   2. 使用滾動視差作法豐富使用者視覺效果
   3. 運用 jQuery 設計網頁動畫效果
+  4. 不仰賴 Framework 進行 RWD 客製化
 
-- <a href="https://joycelin19921128.github.io/travel/">高雄旅遊資訊(JavaScript、Ajax、Bootstrap)</a>
+- <a href="https://joycelin19921128.github.io/travel/">高雄旅遊資訊(JavaScript、Ajax、Bootstrap )</a>
   1. 使用 Bootstrap 進行格線規劃  
   2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
 
