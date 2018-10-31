@@ -11,7 +11,7 @@
 -  運用 jQuery 設計網頁動畫效果，了解如何使用第三方套件。
 -  使用 Bootstrap 快速建立響應式網頁。
 -  使用 SCSS 有效率地管理網頁版型設定。
--  了解 Javascript 基本語法，並配合使用 Jquery / CSS 呈現網頁動態效果。
+-  了解 JavaScript 基本語法，並配合使用 jQuery / CSS 呈現網頁動態效果。
 -  利用 AJAX 撈取遠端JSON資料並顯示在網頁上。
 -  了解第三方 API (Google Map、Open Data 等等)的串接與運用。
 -  了解 Git / Github 與基本指令運用。
@@ -26,7 +26,7 @@
 - <a href="https://joycelin19921128.github.io/todo-simple/">簡易Todolist( JavaScript 、 Vue )</a>
 
   1. 配合 LocalStorage 運用
-  2. 使用vue框架快速建立簡易記事本
+  2. 使用Vue框架快速建立簡易記事本
   3. 建立基本新增、刪除、修改功能
 
 - <a href="https://joycelin19921128.github.io/hex/">六角西餐廳( RWD 、 jQuery、SCSS )</a>
