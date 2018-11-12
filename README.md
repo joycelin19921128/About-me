@@ -48,9 +48,10 @@
   3. 運用 jQuery 設計網頁動畫效果
   4. 不仰賴 Framework 進行 RWD 客製化
 
-- <a href="https://joycelin19921128.github.io/vue-travel/">高雄旅遊資訊(JavaScript、Ajax、Bootstrap )</a>
+- <a href="https://joycelin19921128.github.io/vue-travel/">高雄旅遊資訊(Vue、Ajax、Bootstrap )</a>
   1. 使用 Bootstrap 進行格線規劃  
-  2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
+  2. 使用 axios 透過 Ajax 取得 Open Data 資料
+  3. 使用Vue框架快速建立旅遊資訊網
 
 ---
 ## 關於我
